@@ -8,12 +8,13 @@ Performing analysis on Kickstarter data to uncover trends
 Utilizing the data from more than 1300 Kickstarter campaigns, we sought to identify trends that would lead to the success for your production.
 ---
 ### Purpose
----
+
 When organizing a campaign to support the production of your play *Fever*, it is important to see what choices have lead to positive outcomes previously. We have analysed the provided data with an eye toward identifying those characteristics that you can control, and have found two factors that will have a significant impact on the sucess of your upcoming campaign:
----
+
 -When do you start?
----
+
 -How much do you ask for?
+
 ---
 ## Analysis and Challenges
 
@@ -21,7 +22,7 @@ We identified these two factors primarily based on the significance of their imp
 
 ### Analysis of Outcomes Based on Launch Date
 
-Kickstarter campaigns started in early summer are more successful than those started at other times of the year. May is the most successful month to start your campaign, with June second and July third. This follows as we might expect, as overall charitable giving to cultural causes spikes in early summer (see ![https://mrbenchmarks.com/journeys#fundraising](https://mrbenchmarks.com/journeys#fundraising)).
+Kickstarter campaigns started in early summer are more successful than those started at other times of the year. May is the most successful month to start your campaign, with June second and July third. This follows as we might expect, as overall charitable giving to cultural causes spikes in early summer.![https://mrbenchmarks.com/journeys#fundraising](https://mrbenchmarks.com/journeys#fundraising).
 
 ![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
 
@@ -31,7 +32,7 @@ As we can see, campaigns started in May are most successful, as they span the ea
 
 Determining the Goal of the campaign is a bit harder. Those campaigns asking for a modest amount - up to $5000 - were successful nearly 3 out of 4 times. As the goal gets bigger, the chance of success falls. Indeed, from $15,000 to $35,000 the chances of success are less than 50%.
 
-![Theater Outcomes Based on Goals](Theater_Outcomes_vs_Goals.png)
+![Theater Outcomes Based on Goals](Outcomes_vs_Goals.png)
 
 From $35,000 to $45,000 the chance of success goes back to the rates we saw at $5000! Better than two to one! 
 
@@ -42,7 +43,7 @@ The lesson here is to either ask for a modest amount, hoping to run another camp
 
 The dataset provided only a limited snapshot of the Kickstarters over time, as it was comprised of 1066 relevant records form 2010 to 2017. The dataset did not include alternative crowdfunding sources like Indiegog or GiveSendGo. The dataset showed some anomolies, like some categories showing no sucessful campaigns, and further investigation of the data source may be warranted.
 
-
+---
 ## Results
 
 Successful Kickstarter campaigns for plays start in May, and ask for either $5000 or $45,000. 
