@@ -12,7 +12,7 @@ When organizing a campaign to support the production of your play *Fever*, it is
 
 -When do you start?
 
--How much do you ask for?
+-How big is your goal?
 
 ---
 ## Analysis and Challenges
