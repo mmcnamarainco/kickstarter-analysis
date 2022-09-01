@@ -1,15 +1,14 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
 
-# Kickstarting with Excel
+Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 ---
-Utilizing the data from more than 1300 Kickstarter campaigns, we sought to identify trends that would lead to the success for your production.
+Utilizing the data from more than 1000 Kickstarter campaigns, we sought to identify trends that would lead to the success for your production.
 ---
 ### Purpose
 
-When organizing a campaign to support the production of your play *Fever*, it is important to see what choices have lead to positive outcomes previously. We have analysed the provided data with an eye toward identifying those characteristics that you can control, and have found two factors that will have a significant impact on the sucess of your upcoming campaign:
+When organizing a campaign to support the production of your play *Fever*, it is important to see what choices have led to positive outcomes previously. We have analyzed the provided data with an eye toward identifying those characteristics that you can control, and have found two factors that will have a significant impact on the success of your upcoming campaign:
 
 -When do you start?
 
@@ -18,11 +17,11 @@ When organizing a campaign to support the production of your play *Fever*, it is
 ---
 ## Analysis and Challenges
 
-We identified these two factors primarily based on the significance of their impact on success, and the ease with which we have control over them. It is unsurprising to find the correlation between the launch date of a campaign and it's success, given the economic cycles that drive such giving. Looking at the data for success based on the goal of the campaign provided some interensting insights to consider.
+We identified these two factors primarily based on the significance of their impact on success, and the ease with which we have control over them. It is unsurprising to find the correlation between the launch date of a campaign and it's success, given the economic cycles that drive such giving. Looking at the data for success based on the goal of the campaign provided some interesting insights to consider.
 
 ### Analysis of Outcomes Based on Launch Date
 
-Kickstarter campaigns started in early summer are more successful than those started at other times of the year. May is the most successful month to start your campaign, with June second and July third. This follows as we might expect, as overall charitable giving to cultural causes spikes in early summer.![https://mrbenchmarks.com/journeys#fundraising](https://mrbenchmarks.com/journeys#fundraising).
+Kickstarter campaigns started in early summer are more successful than those started at other times of the year. May is the most successful month to start your campaign, with June second and July third. This follows as we might expect, as overall charitable giving to cultural causes spikes in early summer. See: [https://mrbenchmarks.com/journeys#fundraising](https://mrbenchmarks.com/journeys#fundraising).
 
 ![Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png)
 
@@ -41,21 +40,19 @@ The lesson here is to either ask for a modest amount, hoping to run another camp
 
 ### Challenges and Difficulties Encountered
 
-The dataset provided only a limited snapshot of the Kickstarters over time, as it was comprised of 1066 relevant records form 2010 to 2017. The dataset did not include alternative crowdfunding sources like Indiegog or GiveSendGo. The dataset showed some anomolies, like some categories showing no sucessful campaigns, and further investigation of the data source may be warranted.
+The dataset provided only a limited snapshot of the Kickstarters over time, as it was comprised of 1066 relevant records from 2010 to 2017. The dataset did not include alternative crowdfunding sources like Indiegog or GiveSendGo. The dataset showed some anomalies, like some categories showing no successful campaigns, and further investigation of the data source may be warranted.
 
 ---
 ## Results
 
-Successful Kickstarter campaigns for plays start in May, and ask for either $5000 or $45,000. 
+Successful Kickstarter campaigns for plays start in May and ask for either $5000 or $45,000. 
 
-The later you start, the lower the chances of success. If the campaign cannot be started during the summer months, Febuary provides a bright spot, but clearly early summer optimum time.
+The later you start, the lower the chances of success. If the campaign cannot start during the summer months, February provides a bright spot. But clearly May is the optimum time to start, allowing you to run the campaign over the early summer.
 
 The data provided suggests that the chances of success are about the same asking for $45,000 as they are at $5000, so it would make sense to do the campaign for that amount. If it fails, you can always try again for the more modest goal.
 
 Other analyses that could provide addition insights would be to explore the relationship between average contribution and success rates. This would help identify campaigns that rely on large individual contributions to reach their goal. Additionally, comparing average contributions versus month could lead to interesting conclusions. 
 
-Expanding our analysis beyond Kickstarter to more focused crowdfunding sites could lead to more success, but further analysis would be required to be certain.
-
-
-
+Expanding our analysis beyond Kickstarter to more focused crowdfunding sites could lead to more success, but further analysis is recommended to be certain.
+ng analysis on Kickstarter data to uncover trends
 
