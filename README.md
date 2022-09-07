@@ -54,5 +54,3 @@ The data provided suggests that the chances of success are about the same asking
 Other analyses that could provide addition insights would be to explore the relationship between average contribution and success rates. This would help identify campaigns that rely on large individual contributions to reach their goal. Additionally, comparing average contributions versus month could lead to interesting conclusions. 
 
 Expanding our analysis beyond Kickstarter to more focused crowdfunding sites could lead to more success, but further analysis is recommended to be certain.
-ng analysis on Kickstarter data to uncover trends
-
